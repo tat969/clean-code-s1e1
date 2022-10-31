@@ -4,24 +4,24 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.time-planning-section {
+.header {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.time-planning-section img {
+.header img {
     width: 100%;
 }
-.time-planning-section .more-info {
+.header .more-info {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.time-planning-section { text-align: center;
+.header { text-align: center;
 }
 }
-.centered-main-page-element {
+.main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
